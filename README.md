@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Currently learning](https://skillicons.dev/icons?i=js,ts,cpp,c,rust)](https://skillicons.dev)
+
 
 <!--
 **JoeMama54/JoeMama54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
