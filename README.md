@@ -1,4 +1,5 @@
-[![Currently learning](https://skillicons.dev/icons?i=js,ts,cpp,c,rust,wasm,lua)](https://skillicons.dev)
+Currently learning
+[![Currently learning](https://skillicons.dev/icons?i=js,ts,cpp,c,rust,wasm,lua,python)](https://skillicons.dev)
 
 
 <!--
